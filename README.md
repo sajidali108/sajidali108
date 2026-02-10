@@ -2,9 +2,10 @@
 # Hi, I’m Sajid Ali 👋
 </p>
 
-🎓 BS Artificial Intelligence student  
-🤖 Focused on GenAI, Prompt Engineering, and practical AI applications  
+🎓 BS Artificial Intelligence Student  
+🤖 Focused on **GenAI**, **Agentic AI**, and **AI Agents**  
 📍 Learning by building, experimenting, and breaking things
+
 
 ---
 
