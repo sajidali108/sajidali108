@@ -1,4 +1,6 @@
+<p align="center">
 # Hi, I’m Sajid Ali 👋
+</p>
 
 🎓 BS Artificial Intelligence student  
 🤖 Focused on GenAI, Prompt Engineering, and practical AI applications  
