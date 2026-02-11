@@ -1,74 +1,123 @@
+# <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sajid Ali </p>
+
 <p align="center">
-# Hi, I’m Sajid Ali 👋
+<strong><em>An AI engineering student focused on applied GenAI</em></strong>
 </p>
 
-🎓 BS Artificial Intelligence Student  
-🤖 Focused on **GenAI**, **Agentic AI**, and **AI Agents**  
-📍 Learning by building, experimenting, and breaking things
+<p align="center">
+<em>GenAI Systems · AI Agents · Automation</em>
+</p>
 
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I’m an AI student with a growing interest in **Generative AI**, **LLMs**, and **AI-powered applications**.  
-Currently, I’m working on understanding how modern AI systems are designed — not just using models, but **thinking in terms of prompts, pipelines, and real-world use cases**.
-
-I prefer **practical learning over theory-heavy fluff** and aim to build skills that are actually useful in industry.
-
----
-
-## 🧠 Current Focus
-
-- Generative AI & Large Language Models (LLMs)
-- Prompt Engineering (structure, control, evaluation)
-- LangChain fundamentals
-- Retrieval-Augmented Generation (RAG)
-- Python for AI & automation
-- Exploring AI workflows and automation (early stage)
+🎓 Student & AI Engineer specialized in **Generative AI**
+🤖 Passionate about building intelligent, scalable AI systems
+🚀 Focused on LLMs, AI Agents, and production-ready GenAI apps
+🛠 Turning research ideas into real-world AI solutions
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-**Languages & Tools**
-- Python
-- Git & GitHub
-- Google Colab
-
-**AI / ML**
-- OpenAI APIs
-- Hugging Face (models & ecosystem)
-- LangChain (learning in depth)
-- Prompt Engineering techniques
-
----
-
-## 📌 Projects & Practice
-
-Most of my work currently focuses on:
-- AI experiments
-- Prompt engineering practice
-- Learning-based projects (GenAI & RAG)
-
-> I believe in building skills first, polishing portfolios second.  
-> More structured projects coming soon.
+<p align="left">
+<a href="https://www.linkedin.com/in/sajidali-ai/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:sjduser1@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+<a href="https://github.com/sajidali108" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<!-- WhatsApp Placeholder -->
+<a href="#">
+<img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40"/>
+</a>
+</p>
 
 ---
 
-## 📈 GitHub Goals
+## 🚀 Tech Stack
 
-- Write cleaner, more intentional code
-- Build small but meaningful AI projects
-- Document learnings clearly
-- Improve consistency over time
+### 🧑‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html" />
+</p>
+
+### ⚙ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker" />
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="45"/>
+<img src="https://python.langchain.com/img/favicon.ico" height="45"/>
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🔥 What I Build
 
-- GitHub: [@sajidali108](https://github.com/sajidali108)
+* 🧠 LLM-powered Applications
+* 🤖 AI Agents using LangChain
+* 📊 Streamlit AI Dashboards
+* ⚡ FastAPI AI Backends
+* 🐳 Dockerized AI Deployments
 
 ---
 
-> _Still learning. Still improving. No shortcuts._
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajidali108&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidali108&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidali108&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajidali108&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+## 📜 Certifications
+
+> 🚧 This section will be updated soon with professional certifications in AI, Machine Learning, and Cloud Technologies.
+
+---
+
+## ⚡ Fun Facts
+
+* 🤖 I enjoy experimenting with AI Agents & LLM pipelines
+* 🧠 I believe GenAI will redefine software development
+* ☕ Debugging + Coffee = Productivity
+* 🚀 I love building things that feel like magic
+
+---
+
+## 🎯 Current Focus
+
+```python
+Building: GenAI Apps 🧠  
+Learning: Advanced LLM Optimization  
+Goal: Become a Leading AI Engineer 🚀
+```
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
