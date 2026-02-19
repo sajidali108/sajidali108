@@ -11,12 +11,17 @@
 
 ---
 
-## 🧠 About Me
+## 💫 About Me
 
-🎓 Student & AI Engineer specialized in **Generative AI**
-🤖 Passionate about building intelligent, scalable AI systems
-🚀 Focused on LLMs, AI Agents, and production-ready GenAI apps
-🛠 Turning research ideas into real-world AI solutions
+| | |
+|---|---|
+| 🧠 **Building**      | Applied GenAI systems & AI-based freelance projects |
+| ⚙️ **Learning**      | LangChain · LangGraph · RAG · AI Agents |
+| 🤝 **Collaborating** | AI workflows & automation systems |
+| 💬 **Discussing**    | LLM experimentation & prompt design |
+| ⚡ **Fun**           | Turning everyday problems into small AI solutions |
+
+
 
 ---
 
