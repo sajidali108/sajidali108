@@ -4,10 +4,6 @@
 <strong><em>An AI engineering student focused on applied GenAI</em></strong>
 </p>
 
-<p align="center">
-<em>GenAI Systems · AI Agents · Automation</em>
-</p>
-
 
 ---
 
@@ -15,15 +11,34 @@
 
 | | |
 |---|---|
-| 🧠 **Building**      | Applied GenAI systems & AI-based freelance projects |
-| ⚙️ **Learning**      | LangChain · LangGraph · RAG · AI Agents |
+| 🧠 **Building**      | LLM-powered apps & AI-based freelance projects |
+| 🧪 **Experience**    | Built RAG prototypes, practiced prompt engineering & applied Python in basic ML projects |
+| ⚙️ **Learning**      | LangChain · LangGraph · RAG · AI Agents · MCP  |
 | 🤝 **Collaborating** | AI workflows & automation systems |
-| 💬 **Discussing**    | LLM experimentation & prompt design |
 | ⚡ **Fun**           | Turning everyday problems into small AI solutions |
 
 
 
 ---
+
+# 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-222222?style=for-the-badge)
 
 ## 🌐 Connect With Me
 
