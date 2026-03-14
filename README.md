@@ -13,68 +13,105 @@
 |---|---|
 | 🧠 **Building**      | LLM-powered apps & AI-based freelance projects |
 | 🧪 **Experience**    | Built RAG prototypes, practiced prompt engineering & applied Python in basic ML projects |
-| ⚙️ **Learning**      | LangChain · LangGraph · RAG · AI Agents · MCP  |
+| ⚙️ **Learning**      | LangChain · LangGraph · RAG · AI Automation · Agentic AI  |
 | 🤝 **Collaborating** | AI workflows & automation systems |
 | ⚡ **Fun**           | Turning everyday problems into small AI solutions |
 
 
 
 ---
+---
 
-# 💻 Tech Stack:
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-222222?style=for-the-badge)
-
-## 🌐 Connect With Me
+### 〔 Languages 〕
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sajidali-ai/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:sjduser1@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-<a href="https://github.com/sajidali108" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-<!-- WhatsApp Placeholder -->
-<a href="#">
-<img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=python,html&theme=dark" />
 </p>
+<details>
+<summary><b>🌱 Currently Learning </b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+</p>
+</details>
 
 ---
 
-## 🚀 Tech Stack
+### 〔 Tools & Platforms 〕
 
-### 🧑‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,html" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,gcp&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA-6E3FF3?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
-### ⚙ Frameworks & Libraries
-
+<details>
+<summary><b>🌱 Currently Learning </b></summary>
+<br/>
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker" />
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="45"/>
-<img src="https://python.langchain.com/img/favicon.ico" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
+</details>
+
+---
+
+### 〔 Libraries & Frameworks 〕
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,opencv&theme=dark" />
+</p>
+<p align="left">
+  
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20GenAI%20SDK-4285F4?style=for-the-badge&logo=google&logoColor=white" />  
+</p>
+
+<details>
+<summary><b>🌱 Currently Learning </b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+</p>
+</details>
+
+---
+
+### 〔 Skills 〕
+
+| Skill | Level | |
+|---|---|---|
+| Python | ⭐⭐⭐☆☆ | Intermediate |
+| Machine Learning | ⭐⭐☆☆☆ | Beginner |
+| Prompt Engineering | ⭐⭐⭐☆☆ | Intermediate |
+| RAG | ⭐⭐☆☆☆ | Beginner |
+<details>
+<summary><b>🌱 Currently Learning </b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/AI%20Automation-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Ops-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-222222?style=for-the-badge" />
+</p>
+</details>
 
 ---
 
