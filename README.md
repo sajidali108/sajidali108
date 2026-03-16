@@ -20,7 +20,6 @@
 
 
 ---
----
 
 ## 🛠️ Tech Stack
 
@@ -113,17 +112,23 @@
 </p>
 </details>
 
----
 
-## 🔥 What I Build
 
-* 🧠 LLM-powered Applications
-* 🤖 AI Agents using LangChain
-* 📊 Streamlit AI Dashboards
-* ⚡ FastAPI AI Backends
-* 🐳 Dockerized AI Deployments
 
 ---
+
+## 🚀 Projects
+
+| Project | Description | Tech Stack | Status |
+|---|---|---|---|
+| 🏥 Biolytiq AI Insights | Freelance medical app that delivers AI-powered health recommendations & insights from user metrics like sleep, steps, and hydration | Python · Gemini API · GenAI SDK · FastAPI · Google Cloud · Railway | ![Status](https://img.shields.io/badge/Freelance-Live-brightgreen?style=flat-square) |
+| [🤖 Programming For AI](https://github.com/sajidali108/Programming-For-AI-projects) | Comprehensive collection of AI/ML projects spanning classical algorithms to deep learning — NLP, CV, and more | Python · TensorFlow · PyTorch · Scikit-learn · NLTK · Transformers | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/sajidali108/Programming-For-AI-projects) |
+| [📊 Machine Learning](https://github.com/sajidali108/Machine-Learning) | Kaggle-based ML practice projects including House Price Prediction, Titanic Survival, and Real Estate Pricing — focused on data analysis & modeling | Python · Pandas · NumPy · Scikit-learn · Matplotlib | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/sajidali108/Machine-Learning) |
+| [📚 AI RAG Study Assistant](https://github.com/sajidali108/AI-RAG-project-Study-Assistant) | Local RAG app that turns static PDFs into interactive knowledge bases — query documents and get cited, context-aware answers with full data privacy | LangChain · Ollama (Llama 3.2) · PyPDF · OllamaEmbeddings · Colab | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/sajidali108/AI-RAG-project-Study-Assistant) |
+
+---
+
+
 
 ## 📊 GitHub Stats
 
@@ -141,6 +146,28 @@
 </p>
 
 ---
+## 📜 Certifications
+
+> 🚧 This section will be updated soon with professional certifications in AI, Machine Learning, and Cloud Technologies.
+---
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sajidali-ai/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:sjduser1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sajidali108" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
+---
 
 ## 👀 Profile Visitors
 
@@ -148,30 +175,8 @@
   <img src="https://komarev.com/ghpvc/?username=sajidali108&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
----
 
-## 📜 Certifications
 
-> 🚧 This section will be updated soon with professional certifications in AI, Machine Learning, and Cloud Technologies.
-
----
-
-## ⚡ Fun Facts
-
-* 🤖 I enjoy experimenting with AI Agents & LLM pipelines
-* 🧠 I believe GenAI will redefine software development
-* ☕ Debugging + Coffee = Productivity
-* 🚀 I love building things that feel like magic
-
----
-
-## 🎯 Current Focus
-
-```python
-Building: GenAI Apps 🧠  
-Learning: Advanced LLM Optimization  
-Goal: Become a Leading AI Engineer 🚀
-```
 
 ---
 
